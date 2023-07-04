@@ -1,0 +1,30 @@
+﻿  Source.cpp
+C:\University\HK2_2023\Cấu Trúc Dữ Liệu và Giải Thuật TH\Dijkstra Au\Dijkstra Au\Source.cpp(23,32): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility(172,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\University\HK2_2023\Cấu Trúc Dữ Liệu và Giải Thuật TH\Dijkstra Au\Dijkstra Au\Source.cpp(44,35): message : see reference to function template instantiation 'std::pair<int,int>::pair<_Ty&,int&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Ty=__int64,
+              _Other1=__int64 &,
+              _Other2=int &
+          ]
+C:\University\HK2_2023\Cấu Trúc Dữ Liệu và Giải Thuật TH\Dijkstra Au\Dijkstra Au\Source.cpp(44,23): message : see reference to function template instantiation 'std::pair<int,int>::pair<_Ty&,int&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Ty=__int64,
+              _Other1=__int64 &,
+              _Other2=int &
+          ]
+  Dijkstra Au.vcxproj -> C:\University\HK2_2023\Cấu Trúc Dữ Liệu và Giải Thuật TH\Dijkstra Au\x64\Debug\Dijkstra Au.exe
